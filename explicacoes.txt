@@ -1,0 +1,6 @@
+Nesse código eu usei os comandos que me foram orientados, os comandos básicos de html
+Comandos como h1...h6, que são usados para títulos eu usei parcialmente, usei do h1 até o h4
+Utilizei do comandos ol e ul para realizar listas, ordenadas e não ordenadas
+Utilizei tags p para escrever parágrafos e tags br para quebrar a linha dos mesmos
+E utilizei tags a para adicionar links clicáveis
+Também não usei html semantico nem css para nada no código
